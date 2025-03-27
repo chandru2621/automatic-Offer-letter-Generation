@@ -1,0 +1,383 @@
+2025-03-27 10:12:26,565 - ERROR - Missing required email configuration: EMAIL_USERNAME, EMAIL_PASSWORD
+2025-03-27 10:12:26,566 - ERROR - Invalid email configuration. Please check your .env file.
+2025-03-27 10:12:45,503 - ERROR - Missing required email configuration: EMAIL_USERNAME, EMAIL_PASSWORD
+2025-03-27 10:12:45,504 - ERROR - Invalid email configuration. Please check your .env file.
+2025-03-27 10:17:53,969 - INFO - Processing offer letter for Devipriya
+2025-03-27 10:17:53,971 - INFO - Offer letter saved to: data\generated_letters\offer_letter_devipriya.html
+2025-03-27 10:17:53,972 - INFO - Preparing to send offer letter to 000
+2025-03-27 10:17:57,031 - ERROR - Attempt 1/3 failed: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-22780f45f45sm117908225ad.87 - gsmtp')
+2025-03-27 10:18:04,066 - ERROR - Attempt 2/3 failed: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-73905fd5747sm13593534b3a.55 - gsmtp')
+2025-03-27 10:18:11,112 - ERROR - Attempt 3/3 failed: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-227811b8080sm117976745ad.116 - gsmtp')
+2025-03-27 10:18:11,112 - ERROR - Failed to send offer letter to 000 after 3 attempts
+2025-03-27 10:18:11,112 - ERROR - Failed to process offer letter for Devipriya
+2025-03-27 10:18:11,112 - INFO - Processing complete. Successful: 0, Failed: 1
+2025-03-27 10:18:11,112 - WARNING - 1 offer letters failed to process. Check the logs for details.
+2025-03-27 10:19:01,842 - INFO - Processing offer letter for Devipriya
+2025-03-27 10:19:01,842 - INFO - Offer letter saved to: data\generated_letters\offer_letter_devipriya.html
+2025-03-27 10:19:01,842 - INFO - Preparing to send offer letter to 000
+2025-03-27 10:19:03,924 - ERROR - Attempt 1/3 failed: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-227811bd195sm118054935ad.132 - gsmtp')
+2025-03-27 10:19:11,045 - ERROR - Attempt 2/3 failed: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-7390611c7dasm13539647b3a.92 - gsmtp')
+2025-03-27 10:19:18,086 - ERROR - Attempt 3/3 failed: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-227811d968asm117615185ad.162 - gsmtp')
+2025-03-27 10:19:18,087 - ERROR - Failed to send offer letter to 000 after 3 attempts
+2025-03-27 10:19:18,087 - ERROR - Failed to process offer letter for Devipriya
+2025-03-27 10:19:18,087 - INFO - Processing complete. Successful: 0, Failed: 1
+2025-03-27 10:19:18,087 - WARNING - 1 offer letters failed to process. Check the logs for details.
+2025-03-27 10:23:38,406 - INFO - Processing offer letter for Devipriya
+2025-03-27 10:23:38,406 - INFO - Offer letter saved to: data\generated_letters\offer_letter_devipriya.html
+2025-03-27 10:23:38,406 - INFO - Preparing to send offer letter to 000
+2025-03-27 10:23:41,452 - ERROR - Attempt 1/3 failed: {'000': (553, b'5.1.3 The recipient address <000> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d2e1a72fcca58-73905fd613bsm13581159b3a.62 - gsmtp')}
+2025-03-27 10:23:48,845 - ERROR - Attempt 2/3 failed: {'000': (553, b'5.1.3 The recipient address <000> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d2e1a72fcca58-73905fd5788sm13528158b3a.50 - gsmtp')}
+2025-03-27 10:23:56,517 - ERROR - Attempt 3/3 failed: {'000': (553, b'5.1.3 The recipient address <000> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d9443c01a7336-22780f461basm118213355ad.96 - gsmtp')}
+2025-03-27 10:23:56,517 - ERROR - Failed to send offer letter to 000 after 3 attempts
+2025-03-27 10:23:56,517 - ERROR - Failed to process offer letter for Devipriya
+2025-03-27 10:23:56,533 - INFO - Processing complete. Successful: 0, Failed: 1
+2025-03-27 10:23:56,533 - WARNING - 1 offer letters failed to process. Check the logs for details.
+2025-03-27 10:25:20,950 - INFO - Preparing to send offer letter to chandrumani260@gmail.com
+2025-03-27 10:25:24,138 - INFO - Successfully sent offer letter to chandrumani260@gmail.com
+2025-03-27 10:25:24,138 - INFO - Test email sent successfully!
+2025-03-27 10:25:24,138 - INFO - Processing offer letter for Devipriya
+2025-03-27 10:25:24,138 - INFO - Offer letter saved to: data\generated_letters\offer_letter_devipriya.html
+2025-03-27 10:25:24,154 - INFO - Preparing to send offer letter to 000
+2025-03-27 10:25:26,177 - ERROR - Attempt 1/3 failed: {'000': (553, b'5.1.3 The recipient address <000> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d9443c01a7336-227811fc186sm117918295ad.246 - gsmtp')}
+2025-03-27 10:25:33,321 - ERROR - Attempt 2/3 failed: {'000': (553, b'5.1.3 The recipient address <000> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d2e1a72fcca58-7390600a75asm13140101b3a.84 - gsmtp')}
+2025-03-27 10:25:40,458 - ERROR - Attempt 3/3 failed: {'000': (553, b'5.1.3 The recipient address <000> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 41be03b00d2f7-af8a2846270sm11802621a12.36 - gsmtp')}
+2025-03-27 10:25:40,473 - ERROR - Failed to send offer letter to 000 after 3 attempts
+2025-03-27 10:25:40,473 - ERROR - Failed to process offer letter for Devipriya
+2025-03-27 10:25:40,473 - INFO - Processing complete. Successful: 0, Failed: 1
+2025-03-27 10:25:40,473 - WARNING - 1 offer letters failed to process. Check the logs for details.
+2025-03-27 10:26:52,233 - INFO - Attempting to send test email to: chandrumani260@gmail.com
+2025-03-27 10:26:52,233 - INFO - Preparing to send offer letter to chandrumani260@gmail.com
+2025-03-27 10:26:55,486 - INFO - Successfully sent offer letter to chandrumani260@gmail.com
+2025-03-27 10:26:55,486 - INFO - Test email sent successfully!
+2025-03-27 10:26:55,507 - INFO - Processing offer letter for Devipriya
+2025-03-27 10:26:55,508 - INFO - Offer letter saved to: data\generated_letters\offer_letter_devipriya.html
+2025-03-27 10:26:55,509 - INFO - Preparing to send offer letter to 000
+2025-03-27 10:26:55,509 - ERROR - Invalid email format: 000
+2025-03-27 10:26:55,510 - ERROR - Error preparing email for 000: Invalid recipient email: 000
+2025-03-27 10:26:55,510 - ERROR - Failed to process offer letter for Devipriya
+2025-03-27 10:26:55,511 - INFO - Processing complete. Successful: 0, Failed: 1
+2025-03-27 10:26:55,511 - WARNING - 1 offer letters failed to process. Check the logs for details.
+2025-03-27 10:27:52,932 - INFO - Attempting to send test email to: chandrumani260@gmail.com
+2025-03-27 10:27:52,932 - INFO - Preparing to send offer letter to chandrumani260@gmail.com
+2025-03-27 10:27:56,183 - INFO - Successfully sent offer letter to chandrumani260@gmail.com
+2025-03-27 10:27:56,183 - INFO - Test email sent successfully!
+2025-03-27 10:27:56,199 - INFO - Processing offer letter for Devipriya
+2025-03-27 10:27:56,204 - INFO - Offer letter saved to: data\generated_letters\offer_letter_devipriya.html
+2025-03-27 10:27:56,204 - INFO - Preparing to send offer letter to devipriyadhanam@gmail.com
+2025-03-27 10:27:59,367 - INFO - Successfully sent offer letter to devipriyadhanam@gmail.com
+2025-03-27 10:27:59,367 - INFO - Successfully processed offer letter for Devipriya
+2025-03-27 10:27:59,381 - INFO - Processing complete. Successful: 1, Failed: 0
+2025-03-27 10:33:48,080 - INFO - Attempting to send test email to: chandrumani260@gmail.com
+2025-03-27 10:33:48,080 - ERROR - Error during email test: EmailSender.send_offer_letter() missing 1 required positional argument: 'position'
+2025-03-27 10:34:24,330 - INFO - Attempting to send test email to: chandrumani260@gmail.com
+2025-03-27 10:34:24,330 - INFO - Preparing to send offer letter to chandrumani260@gmail.com
+2025-03-27 10:39:25,416 - INFO - Attempting to send test email to: chandrumani260@gmail.com
+2025-03-27 10:39:25,416 - INFO - Preparing to send offer letter to chandrumani260@gmail.com
+2025-03-27 10:39:29,905 - INFO - Successfully sent offer letter to chandrumani260@gmail.com
+2025-03-27 10:39:29,905 - INFO - Test email sent successfully!
+2025-03-27 10:39:29,920 - INFO - Processing offer letter for Devipriya
+2025-03-27 10:39:29,933 - INFO - Offer letter saved to: data\generated_letters\offer_letter_devipriya.html
+2025-03-27 10:39:29,933 - INFO - Preparing to send offer letter to devipriyadhanam@gmail.com
+2025-03-27 10:39:33,827 - INFO - Successfully sent offer letter to devipriyadhanam@gmail.com
+2025-03-27 10:39:33,827 - INFO - Successfully processed offer letter for Devipriya
+2025-03-27 10:39:33,827 - INFO - Processing complete. Successful: 1, Failed: 0
+2025-03-27 10:43:12,354 - INFO - Attempting to send test email to: chandrumani260@gmail.com
+2025-03-27 10:43:12,355 - INFO - Preparing to send offer letter to chandrumani260@gmail.com
+2025-03-27 10:43:16,185 - INFO - Successfully sent offer letter to chandrumani260@gmail.com
+2025-03-27 10:43:16,185 - INFO - Test email sent successfully!
+2025-03-27 10:43:16,185 - ERROR - Missing required fields for candidate: email
+2025-03-27 10:43:16,185 - INFO - Processing offer letter for Devipriya
+2025-03-27 10:43:16,191 - INFO - Offer letter saved to: data\generated_letters\offer_letter_devipriya.html
+2025-03-27 10:43:16,192 - INFO - Preparing to send offer letter to devipriyadhanam@gmail.com
+2025-03-27 10:43:19,321 - INFO - Successfully sent offer letter to devipriyadhanam@gmail.com
+2025-03-27 10:43:19,321 - INFO - Successfully processed offer letter for Devipriya
+2025-03-27 10:43:19,321 - INFO - Processing complete. Successful: 1, Failed: 0
+2025-03-27 10:47:05,184 - INFO - Attempting to send test email to: chandrumani260@gmail.com
+2025-03-27 10:47:05,184 - INFO - Preparing to send offer letter to chandrumani260@gmail.com
+2025-03-27 10:47:08,647 - INFO - Successfully sent offer letter to chandrumani260@gmail.com
+2025-03-27 10:47:08,647 - INFO - Test email sent successfully!
+2025-03-27 10:47:08,666 - INFO - Processing offer letter for Devipriya
+2025-03-27 10:47:08,667 - INFO - Offer letter saved to: data\generated_letters\offer_letter_devipriya.html
+2025-03-27 10:47:08,668 - INFO - Preparing to send offer letter to devipriyadhanam@gmail.com
+2025-03-27 10:47:12,143 - INFO - Successfully sent offer letter to devipriyadhanam@gmail.com
+2025-03-27 10:47:12,143 - INFO - Successfully processed offer letter for Devipriya
+2025-03-27 10:47:17,155 - INFO - Processing offer letter for John Doe
+2025-03-27 10:47:17,155 - INFO - Offer letter saved to: data\generated_letters\offer_letter_john_doe.html
+2025-03-27 10:47:17,155 - INFO - Preparing to send offer letter to chandrumani260@gmail.com
+2025-03-27 10:47:21,016 - INFO - Successfully sent offer letter to chandrumani260@gmail.com
+2025-03-27 10:47:21,016 - INFO - Successfully processed offer letter for John Doe
+2025-03-27 10:47:21,032 - INFO - Processing complete. Successful: 2, Failed: 0
+2025-03-27 10:49:53,226 - INFO - Attempting to send test email to: chandrumani260@gmail.com
+2025-03-27 10:49:53,241 - INFO - Preparing to send offer letter to chandrumani260@gmail.com
+2025-03-27 10:49:53,310 - ERROR - Error generating PDF: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 10:49:56,519 - INFO - Successfully sent offer letter to chandrumani260@gmail.com
+2025-03-27 10:49:56,519 - INFO - Test email sent successfully!
+2025-03-27 10:49:56,562 - INFO - Processing offer letter for Devipriya
+2025-03-27 10:49:56,563 - INFO - Offer letter saved to: data\generated_letters\offer_letter_devipriya.html
+2025-03-27 10:49:56,563 - INFO - Preparing to send offer letter to devipriyadhanam@gmail.com
+2025-03-27 10:49:56,624 - ERROR - Error generating PDF: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 10:49:59,845 - INFO - Successfully sent offer letter to devipriyadhanam@gmail.com
+2025-03-27 10:49:59,861 - INFO - Successfully processed offer letter for Devipriya
+2025-03-27 10:50:04,864 - INFO - Processing offer letter for John Doe
+2025-03-27 10:50:04,864 - INFO - Offer letter saved to: data\generated_letters\offer_letter_john_doe.html
+2025-03-27 10:50:04,864 - INFO - Preparing to send offer letter to chandrumani260@gmail.com
+2025-03-27 10:50:04,940 - ERROR - Error generating PDF: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 10:50:08,071 - INFO - Successfully sent offer letter to chandrumani260@gmail.com
+2025-03-27 10:50:08,071 - INFO - Successfully processed offer letter for John Doe
+2025-03-27 10:50:08,071 - INFO - Processing complete. Successful: 2, Failed: 0
+2025-03-27 10:56:00,174 - INFO - Attempting to send test email to: chandrumani260@gmail.com
+2025-03-27 10:56:00,174 - INFO - Preparing to send offer letter to chandrumani260@gmail.com
+2025-03-27 10:56:00,241 - ERROR - Error generating PDF: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 10:56:03,801 - INFO - Successfully sent offer letter to chandrumani260@gmail.com
+2025-03-27 10:56:03,801 - INFO - Test email sent successfully!
+2025-03-27 10:56:03,822 - INFO - Processing offer letter for Devipriya
+2025-03-27 10:56:03,823 - INFO - Offer letter saved to: data\generated_letters\offer_letter_devipriya.html
+2025-03-27 10:56:03,824 - INFO - Preparing to send offer letter to devipriyadhanam@gmail.com
+2025-03-27 10:56:03,886 - ERROR - Error generating PDF: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 10:56:07,153 - INFO - Successfully sent offer letter to devipriyadhanam@gmail.com
+2025-03-27 10:56:07,153 - INFO - Successfully processed offer letter for Devipriya
+2025-03-27 10:56:12,166 - INFO - Processing offer letter for John Doe
+2025-03-27 10:56:12,166 - INFO - Offer letter saved to: data\generated_letters\offer_letter_john_doe.html
+2025-03-27 10:56:12,166 - INFO - Preparing to send offer letter to chandrumani260@gmail.com
+2025-03-27 10:56:12,234 - ERROR - Error generating PDF: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 10:56:15,665 - INFO - Successfully sent offer letter to chandrumani260@gmail.com
+2025-03-27 10:56:15,666 - INFO - Successfully processed offer letter for John Doe
+2025-03-27 10:56:15,666 - INFO - Processing complete. Successful: 2, Failed: 0
+2025-03-27 11:00:14,738 - INFO - Attempting to send test email to: chandrumani260@gmail.com
+2025-03-27 11:00:14,739 - INFO - Preparing to send offer letter to chandrumani260@gmail.com
+2025-03-27 11:00:14,806 - ERROR - Error generating PDF: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:00:18,480 - INFO - Successfully sent offer letter to chandrumani260@gmail.com
+2025-03-27 11:00:18,482 - INFO - Test email sent successfully!
+2025-03-27 11:00:18,486 - INFO - Processing offer letter for Devipriya
+2025-03-27 11:00:18,491 - INFO - Offer letter saved to: data\generated_letters\offer_letter_devipriya.html
+2025-03-27 11:00:18,492 - INFO - Preparing to send offer letter to devipriyadhanam@gmail.com
+2025-03-27 11:00:18,553 - ERROR - Error generating PDF: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:00:21,762 - INFO - Successfully sent offer letter to devipriyadhanam@gmail.com
+2025-03-27 11:00:21,762 - INFO - Successfully processed offer letter for Devipriya
+2025-03-27 11:00:26,774 - INFO - Processing offer letter for John Doe
+2025-03-27 11:00:26,774 - INFO - Offer letter saved to: data\generated_letters\offer_letter_john_doe.html
+2025-03-27 11:00:26,774 - INFO - Preparing to send offer letter to chandrumani260@gmail.com
+2025-03-27 11:00:26,850 - ERROR - Error generating PDF: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:00:30,273 - INFO - Successfully sent offer letter to chandrumani260@gmail.com
+2025-03-27 11:00:30,273 - INFO - Successfully processed offer letter for John Doe
+2025-03-27 11:00:30,273 - INFO - Processing complete. Successful: 2, Failed: 0
+2025-03-27 11:03:55,263 - INFO - Attempting to send test email to: chandrumani260@gmail.com
+2025-03-27 11:03:55,263 - INFO - Preparing to send offer letter to chandrumani260@gmail.com
+2025-03-27 11:03:55,263 - ERROR - Error preparing email for chandrumani260@gmail.com: '\n            font-family'
+2025-03-27 11:03:55,263 - ERROR - Failed to send test email.
+2025-03-27 11:04:18,529 - INFO - Attempting to send test email to: chandrumani260@gmail.com
+2025-03-27 11:04:18,529 - INFO - Preparing to send offer letter to chandrumani260@gmail.com
+2025-03-27 11:04:18,529 - ERROR - Error preparing email for chandrumani260@gmail.com: '\n            font-family'
+2025-03-27 11:04:18,529 - ERROR - Failed to send test email.
+2025-03-27 11:05:00,743 - INFO - Attempting to send test email to: chandrumani260@gmail.com
+2025-03-27 11:05:00,744 - INFO - Preparing to send offer letter to chandrumani260@gmail.com
+2025-03-27 11:05:00,810 - ERROR - Error generating PDF: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:05:04,573 - INFO - Successfully sent offer letter to chandrumani260@gmail.com
+2025-03-27 11:05:04,573 - INFO - Test email sent successfully!
+2025-03-27 11:05:04,588 - INFO - Processing offer letter for Devipriya
+2025-03-27 11:05:04,590 - INFO - Offer letter saved to: data\generated_letters\offer_letter_devipriya.html
+2025-03-27 11:05:04,590 - INFO - Preparing to send offer letter to devipriyadhanam@gmail.com
+2025-03-27 11:05:04,667 - ERROR - Error generating PDF: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:05:07,930 - INFO - Successfully sent offer letter to devipriyadhanam@gmail.com
+2025-03-27 11:05:07,930 - INFO - Successfully processed offer letter for Devipriya
+2025-03-27 11:05:12,944 - INFO - Processing offer letter for John Doe
+2025-03-27 11:05:12,944 - INFO - Offer letter saved to: data\generated_letters\offer_letter_john_doe.html
+2025-03-27 11:05:12,944 - INFO - Preparing to send offer letter to chandrumani260@gmail.com
+2025-03-27 11:05:13,025 - ERROR - Error generating PDF: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:05:16,841 - INFO - Successfully sent offer letter to chandrumani260@gmail.com
+2025-03-27 11:05:16,841 - INFO - Successfully processed offer letter for John Doe
+2025-03-27 11:05:16,841 - INFO - Processing complete. Successful: 2, Failed: 0
+2025-03-27 11:07:58,364 - INFO - Attempting to send test email to: chandrumani260@gmail.com
+2025-03-27 11:07:58,364 - ERROR - Error during email test: 'EmailSender' object has no attribute 'send_offer_letter'
+2025-03-27 11:08:48,127 - ERROR - Error during email test: name 'EMAIL_USERNAME' is not defined
+2025-03-27 11:08:48,127 - ERROR - Email configuration test failed. Please check your settings and try again.
+2025-03-27 11:09:28,754 - ERROR - Error generating PDF: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:09:28,755 - ERROR - Attempt 1 failed: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:09:33,819 - ERROR - Error generating PDF: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:09:33,819 - ERROR - Attempt 2 failed: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:09:38,894 - ERROR - Error generating PDF: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:09:38,894 - ERROR - Attempt 3 failed: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:09:38,894 - ERROR - Failed to send email after 3 attempts
+2025-03-27 11:09:38,894 - ERROR - Error during email test: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:09:38,894 - ERROR - Email configuration test failed. Please check your settings and try again.
+2025-03-27 11:09:52,713 - ERROR - Error generating PDF: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:09:52,713 - ERROR - Attempt 1 failed: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:09:57,783 - ERROR - Error generating PDF: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:09:57,783 - ERROR - Attempt 2 failed: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:10:02,851 - ERROR - Error generating PDF: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:10:02,851 - ERROR - Attempt 3 failed: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:10:02,851 - ERROR - Failed to send email after 3 attempts
+2025-03-27 11:10:02,851 - ERROR - Error during email test: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:10:02,851 - ERROR - Email configuration test failed. Please check your settings and try again.
+2025-03-27 11:10:59,893 - ERROR - Error generating PDF: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:10:59,894 - ERROR - Attempt 1 failed: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:11:04,959 - ERROR - Error generating PDF: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:11:04,959 - ERROR - Attempt 2 failed: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-03-27 11:13:27,544 - INFO - Email configuration validation successful
+2025-03-27 11:13:31,934 - INFO - Email sent successfully to chandrumani260@gmail.com
+2025-03-27 11:13:31,934 - INFO - Email configuration test successful
+2025-03-27 11:13:31,934 - INFO - Reading candidate data from data\candidates.csv
+2025-03-27 11:13:31,974 - ERROR - Error during processing: Can only use .str accessor with string values!
+2025-03-27 11:13:31,974 - ERROR - Error in main execution: Can only use .str accessor with string values!
+2025-03-27 11:17:08,640 - INFO - Starting offer letter generator...
+2025-03-27 11:17:08,640 - INFO - Testing email configuration...
+2025-03-27 11:17:08,640 - INFO - Starting email configuration test...
+2025-03-27 11:17:08,640 - INFO - Validating email configuration...
+2025-03-27 11:17:10,155 - INFO - Email configuration validation successful
+2025-03-27 11:17:10,340 - INFO - Sending test email to chandrumani260@gmail.com...
+2025-03-27 11:17:14,233 - INFO - Email sent successfully to chandrumani260@gmail.com
+2025-03-27 11:17:14,233 - INFO - Email configuration test successful
+2025-03-27 11:17:14,233 - INFO - Starting candidate processing...
+2025-03-27 11:17:14,233 - INFO - Reading candidate data from data\candidates.csv
+2025-03-27 11:17:14,233 - INFO - Found 2 candidates in the CSV file
+2025-03-27 11:17:14,233 - INFO - Starting data validation...
+2025-03-27 11:17:14,233 - INFO - Converting columns to string type for validation...
+2025-03-27 11:17:14,248 - INFO - Validating email formats...
+2025-03-27 11:17:14,251 - INFO - Validating salary formats...
+2025-03-27 11:17:14,252 - INFO - Converting salaries to float...
+2025-03-27 11:17:14,254 - INFO - Data validation completed successfully
+2025-03-27 11:17:14,255 - INFO - Initializing offer generator and email sender...
+2025-03-27 11:17:14,260 - INFO - Validating email configuration...
+2025-03-27 11:17:15,703 - INFO - Email configuration validation successful
+2025-03-27 11:17:15,906 - INFO - Processing candidate 1/2: Devipriya
+2025-03-27 11:17:15,907 - INFO - Formatted salary for Devipriya: $20,000.00
+2025-03-27 11:17:15,907 - INFO - Generating offer letter for Devipriya...
+2025-03-27 11:17:15,907 - ERROR - Error processing candidate Devipriya: OfferGenerator.generate_offer_letter() got an unexpected keyword argument 'candidate_name'
+2025-03-27 11:17:15,907 - INFO - Processing candidate 2/2: John Doe
+2025-03-27 11:17:15,907 - INFO - Formatted salary for John Doe: $85,000.00
+2025-03-27 11:17:15,907 - INFO - Generating offer letter for John Doe...
+2025-03-27 11:17:15,907 - ERROR - Error processing candidate John Doe: OfferGenerator.generate_offer_letter() got an unexpected keyword argument 'candidate_name'
+2025-03-27 11:17:15,907 - INFO - Completed processing all candidates
+2025-03-27 11:17:15,907 - INFO - Offer letter generator completed successfully
+2025-03-27 11:17:41,729 - INFO - Starting offer letter generator...
+2025-03-27 11:17:41,729 - INFO - Testing email configuration...
+2025-03-27 11:17:41,729 - INFO - Starting email configuration test...
+2025-03-27 11:17:41,729 - INFO - Validating email configuration...
+2025-03-27 11:17:43,783 - INFO - Email configuration validation successful
+2025-03-27 11:17:43,978 - INFO - Sending test email to chandrumani260@gmail.com...
+2025-03-27 11:17:47,676 - INFO - Email sent successfully to chandrumani260@gmail.com
+2025-03-27 11:17:47,676 - INFO - Email configuration test successful
+2025-03-27 11:17:47,676 - INFO - Starting candidate processing...
+2025-03-27 11:17:47,676 - INFO - Reading candidate data from data\candidates.csv
+2025-03-27 11:17:47,676 - INFO - Found 2 candidates in the CSV file
+2025-03-27 11:17:47,676 - INFO - Starting data validation...
+2025-03-27 11:17:47,676 - INFO - Converting columns to string type for validation...
+2025-03-27 11:17:47,676 - INFO - Validating email formats...
+2025-03-27 11:17:47,676 - INFO - Validating salary formats...
+2025-03-27 11:17:47,676 - INFO - Converting salaries to float...
+2025-03-27 11:17:47,676 - INFO - Data validation completed successfully
+2025-03-27 11:17:47,676 - INFO - Initializing offer generator and email sender...
+2025-03-27 11:17:47,690 - INFO - Validating email configuration...
+2025-03-27 11:17:48,976 - INFO - Email configuration validation successful
+2025-03-27 11:17:49,161 - INFO - Processing candidate 1/2: Devipriya
+2025-03-27 11:17:49,161 - INFO - Formatted salary for Devipriya: $20,000.00
+2025-03-27 11:17:49,161 - INFO - Generating offer letter for Devipriya...
+2025-03-27 11:17:49,161 - INFO - Sending email to devipriyadhanam@gmail.com...
+2025-03-27 11:17:53,024 - INFO - Email sent successfully to devipriyadhanam@gmail.com
+2025-03-27 11:17:53,024 - INFO - Successfully processed candidate: Devipriya
+2025-03-27 11:17:53,038 - INFO - Processing candidate 2/2: John Doe
+2025-03-27 11:17:53,038 - INFO - Formatted salary for John Doe: $85,000.00
+2025-03-27 11:17:53,039 - INFO - Generating offer letter for John Doe...
+2025-03-27 11:17:53,040 - INFO - Sending email to chandrumani260@gmail.com...
+2025-03-27 11:17:56,873 - INFO - Email sent successfully to chandrumani260@gmail.com
+2025-03-27 11:17:56,873 - INFO - Successfully processed candidate: John Doe
+2025-03-27 11:17:56,873 - INFO - Completed processing all candidates
+2025-03-27 11:17:56,873 - INFO - Offer letter generator completed successfully
+2025-03-27 11:21:58,812 - INFO - Starting offer letter generator...
+2025-03-27 11:21:58,812 - INFO - Testing email configuration...
+2025-03-27 11:21:58,812 - INFO - Starting email configuration test...
+2025-03-27 11:21:58,812 - INFO - Validating email configuration...
+2025-03-27 11:22:00,395 - INFO - Email configuration validation successful
+2025-03-27 11:22:00,589 - INFO - Sending test email to chandrumani260@gmail.com...
+2025-03-27 11:22:04,325 - INFO - Email sent successfully to chandrumani260@gmail.com
+2025-03-27 11:22:04,325 - INFO - Email configuration test successful
+2025-03-27 11:22:04,325 - INFO - Starting candidate processing...
+2025-03-27 11:22:04,325 - INFO - Reading candidate data from data\candidates.csv
+2025-03-27 11:22:04,325 - INFO - Found 2 candidates in the CSV file
+2025-03-27 11:22:04,341 - INFO - Starting data validation...
+2025-03-27 11:22:04,341 - INFO - Converting columns to string type for validation...
+2025-03-27 11:22:04,343 - INFO - Validating email formats...
+2025-03-27 11:22:04,345 - INFO - Validating salary formats...
+2025-03-27 11:22:04,348 - INFO - Converting salaries to float...
+2025-03-27 11:22:04,348 - INFO - Data validation completed successfully
+2025-03-27 11:22:04,349 - INFO - Initializing offer generator and email sender...
+2025-03-27 11:22:04,357 - INFO - Validating email configuration...
+2025-03-27 11:22:05,654 - INFO - Email configuration validation successful
+2025-03-27 11:22:05,849 - INFO - Processing candidate 1/2: Devipriya
+2025-03-27 11:22:05,849 - INFO - Formatted salary for Devipriya: $20,000.00
+2025-03-27 11:22:05,849 - INFO - Generating offer letter for Devipriya...
+2025-03-27 11:22:05,849 - INFO - Sending email to devipriyadhanam@gmail.com...
+2025-03-27 11:22:09,656 - INFO - Email sent successfully to devipriyadhanam@gmail.com
+2025-03-27 11:22:09,671 - INFO - Successfully processed candidate: Devipriya
+2025-03-27 11:22:09,671 - INFO - Processing candidate 2/2: John Doe
+2025-03-27 11:22:09,671 - INFO - Formatted salary for John Doe: $85,000.00
+2025-03-27 11:22:09,671 - INFO - Generating offer letter for John Doe...
+2025-03-27 11:22:09,679 - INFO - Sending email to chandrumani260@gmail.com...
+2025-03-27 11:22:14,202 - INFO - Email sent successfully to chandrumani260@gmail.com
+2025-03-27 11:22:14,202 - INFO - Successfully processed candidate: John Doe
+2025-03-27 11:22:14,202 - INFO - Completed processing all candidates
+2025-03-27 11:22:14,202 - INFO - Offer letter generator completed successfully
+2025-03-27 11:25:23,715 - INFO - Starting offer letter generator...
+2025-03-27 11:25:23,715 - INFO - Testing email configuration...
+2025-03-27 11:25:23,715 - INFO - Starting email configuration test...
+2025-03-27 11:25:23,715 - INFO - Validating email configuration...
+2025-03-27 11:25:25,061 - INFO - Email configuration validation successful
+2025-03-27 11:25:25,264 - INFO - Sending test email to chandrumani260@gmail.com...
+2025-03-27 11:25:29,220 - INFO - Email sent successfully to chandrumani260@gmail.com
+2025-03-27 11:25:29,220 - INFO - Email configuration test successful
+2025-03-27 11:25:29,220 - INFO - Starting candidate processing...
+2025-03-27 11:25:29,220 - INFO - Reading candidate data from data\candidates.csv
+2025-03-27 11:25:29,220 - INFO - Found 2 candidates in the CSV file
+2025-03-27 11:25:29,220 - INFO - Starting data validation...
+2025-03-27 11:25:29,220 - INFO - Converting columns to string type for validation...
+2025-03-27 11:25:29,234 - INFO - Validating email formats...
+2025-03-27 11:25:29,234 - INFO - Validating salary formats...
+2025-03-27 11:25:29,234 - INFO - Converting salaries to float...
+2025-03-27 11:25:29,234 - INFO - Data validation completed successfully
+2025-03-27 11:25:29,234 - INFO - Initializing offer generator and email sender...
+2025-03-27 11:25:29,241 - INFO - Validating email configuration...
+2025-03-27 11:25:30,704 - INFO - Email configuration validation successful
+2025-03-27 11:25:30,898 - INFO - Processing candidate 1/2: Devipriya
+2025-03-27 11:25:30,898 - INFO - Formatted salary for Devipriya: $20,000.00
+2025-03-27 11:25:30,898 - INFO - Generating offer letter for Devipriya...
+2025-03-27 11:25:30,898 - INFO - Sending email to devipriyadhanam@gmail.com...
+2025-03-27 11:25:34,857 - INFO - Email sent successfully to devipriyadhanam@gmail.com
+2025-03-27 11:25:34,857 - INFO - Successfully processed candidate: Devipriya
+2025-03-27 11:25:34,857 - INFO - Processing candidate 2/2: John Doe
+2025-03-27 11:25:34,857 - INFO - Formatted salary for John Doe: $85,000.00
+2025-03-27 11:25:34,857 - INFO - Generating offer letter for John Doe...
+2025-03-27 11:25:34,873 - INFO - Sending email to chandrumani260@gmail.com...
+2025-03-27 11:25:38,944 - INFO - Email sent successfully to chandrumani260@gmail.com
+2025-03-27 11:25:38,944 - INFO - Successfully processed candidate: John Doe
+2025-03-27 11:25:38,944 - INFO - Completed processing all candidates
+2025-03-27 11:25:38,944 - INFO - Offer letter generator completed successfully

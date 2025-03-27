@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            font-family: 'Calibri', Arial, sans-serif;
+            line-height: 1.6;
+            color: #2c3e50;
+            margin: 0;
+            padding: 40px;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 20px;
+        }
+        .company-logo {
+            max-width: 200px;
+            margin-bottom: 20px;
+        }
+        .company-name {
+            font-size: 28px;
+            font-weight: bold;
+            color: #2c3e50;
+            margin: 10px 0;
+        }
+        .company-address {
+            color: #7f8c8d;
+            font-size: 14px;
+            line-height: 1.4;
+        }
+        .date {
+            text-align: right;
+            margin: 30px 0;
+            color: #7f8c8d;
+        }
+        .candidate-info {
+            margin-bottom: 30px;
+        }
+        .candidate-name {
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .section {
+            margin-bottom: 25px;
+        }
+        .section-title {
+            color: #3498db;
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+        .content {
+            margin-bottom: 20px;
+        }
+        .highlight {
+            color: #3498db;
+            font-weight: bold;
+        }
+        .salary {
+            font-size: 18px;
+            color: #27ae60;
+            font-weight: bold;
+        }
+        .details-table {
+            width: 100%;
+            margin: 20px 0;
+            border-collapse: collapse;
+        }
+        .details-table td {
+            padding: 10px;
+            border-bottom: 1px solid #ecf0f1;
+        }
+        .details-table td:first-child {
+            font-weight: bold;
+            width: 200px;
+            color: #34495e;
+        }
+        .signature-section {
+            margin-top: 50px;
+        }
+        .signature-line {
+            width: 200px;
+            border-top: 1px solid #3498db;
+            margin: 50px 0 10px 0;
+        }
+        .footer {
+            margin-top: 50px;
+            padding-top: 20px;
+            border-top: 1px solid #ecf0f1;
+            text-align: center;
+            font-size: 12px;
+            color: #7f8c8d;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="company-name">{{ company_name }}</div>
+        <div class="company-address">{{ company_address }}</div>
+        <div class="company-address">{{ company_website }}</div>
+    </div>
+
+    <div class="date">
+        {{ current_date }}
+    </div>
+
+    <div class="candidate-info">
+        <div class="candidate-name">{{ name }}</div>
+        <div class="candidate-address">
+            Email: {{ email }}
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="content">
+            <p>Dear {{ name }},</p>
+            <p>We are pleased to offer you the position of <span class="highlight">{{ position }}</span> at {{ company_name }}. 
+            This offer is contingent upon successful completion of background checks and verification of your credentials.</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Position Details</div>
+        <table class="details-table">
+            <tr>
+                <td>Position</td>
+                <td>{{ position }}</td>
+            </tr>
+            <tr>
+                <td>Start Date</td>
+                <td>{{ start_date }}</td>
+            </tr>
+            <tr>
+                <td>Employment Type</td>
+                <td>{{ employment_type }}</td>
+            </tr>
+            <tr>
+                <td>Location</td>
+                <td>{{ location }}</td>
+            </tr>
+            <tr>
+                <td>Reporting To</td>
+                <td>{{ reporting_to }}</td>
+            </tr>
+            <tr>
+                <td>Annual Salary</td>
+                <td class="salary">{{ salary }}</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Benefits Package</div>
+        <ul>
+            <li>Comprehensive health insurance coverage</li>
+            <li>401(k) retirement plan with company match</li>
+            <li>Paid time off and holidays</li>
+            <li>Professional development opportunities</li>
+            <li>Employee wellness programs</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Next Steps</div>
+        <p>To accept this offer, please:</p>
+        <ol>
+            <li>Review all terms and conditions in this offer letter</li>
+            <li>Sign and return this offer letter by {{ response_deadline }}</li>
+            <li>Complete the enclosed employment documentation</li>
+            <li>Prepare necessary identification for your first day</li>
+        </ol>
+    </div>
+
+    <div class="signature-section">
+        <p>We are excited about the prospect of you joining our team and look forward to working with you.</p>
+        <div class="signature-line"></div>
+        <p>Best regards,<br>
+        HR Manager<br>
+        {{ company_name }}</p>
+    </div>
+
+    <div class="footer">
+        <p>This offer letter is confidential and intended only for {{ name }}.</p>
+        <p>{{ company_name }} | {{ company_address }} | {{ company_website }}</p>
+    </div>
+</body>
+</html> 
